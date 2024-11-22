@@ -14,7 +14,7 @@ I'm studying at RTU Mirea.\
 
 ## 📫 Whereis
 
-<img alt="tg_ico" src="https://github.com/user-attachments/assets/44250bf5-b982-4c98-a520-ddadca0daaea" width="40">   <a href="mailto:subliker0@gmail.com"><img alt="email_ico" src="https://github.com/user-attachments/assets/46210fdf-6363-47f5-9172-17e7a2423ed8" width="40"></a>
+<a href="t.me/subliker"><img alt="tg_ico" src="https://github.com/user-attachments/assets/44250bf5-b982-4c98-a520-ddadca0daaea" width="40"></a>   <a href="mailto:subliker0@gmail.com"><img alt="email_ico" src="https://github.com/user-attachments/assets/46210fdf-6363-47f5-9172-17e7a2423ed8" width="40"></a>
 
 ## 💻 Open Source Work
 
