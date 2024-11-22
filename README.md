@@ -14,9 +14,14 @@ I'm studying at RTU Mirea.\
 
 ## 📫 Whereis
 
-[Telegram](https://t.me/subliker) | [📧](mailto:subliker0@gmail.com)
+<img alt="tg_ico" src="https://github.com/user-attachments/assets/44250bf5-b982-4c98-a520-ddadca0daaea" width="40">   <a href="mailto:subliker0@gmail.com"><img alt="email_ico" src="https://github.com/user-attachments/assets/46210fdf-6363-47f5-9172-17e7a2423ed8" width="40"></a>
 
 ## 💻 Open Source Work
 
 <img src="https://raw.githubusercontent.com/subliker/github-stats-transparent/output/generated/languages.svg" alt="elioseverojunior" align="left" />
 <img src="https://raw.githubusercontent.com/subliker/github-stats-transparent/output/generated/overview.svg" alt="elioseverojunior" align="center" />
+
+
+```cpp 
+void sex()
+```
